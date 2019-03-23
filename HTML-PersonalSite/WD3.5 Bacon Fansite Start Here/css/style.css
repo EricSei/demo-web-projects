@@ -1,0 +1,40 @@
+
+h1{
+	color: red;
+	font-size: 200px;
+}
+
+img{
+	background-color: red;
+}
+
+img:hover{
+	background-color: gold;
+}
+
+/*
+	Class Selector
+*/
+
+.bacon{
+	background-color: green;
+}
+
+.bacon1{
+	background-color: yellow;
+}
+
+.circular{
+	border-radius: 100%;
+}
+
+/*
+	Id selector
+
+*/
+#heading{
+	color: blue;
+}
+
+
+
